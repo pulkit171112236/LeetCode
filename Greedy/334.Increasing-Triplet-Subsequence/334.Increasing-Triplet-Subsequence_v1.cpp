@@ -5,11 +5,13 @@ public:
         int N = nums.size();
         if (N==0) return false;
         
+        // minimum in <0 to i> range
         vector<int>LeftMin(N,0);
         LeftMin[0] = INT_MAX;
         for (int i=1; i<N; i++)
             LeftMin[i] = min(LeftMin[i-1],nums[i-1]);
         
+        // max in <i to n-1> range
         vector<int>RightMax(N,0);
         RightMax[N-1] = INT_MIN;
         for (int i=N-2; i>=0; i--)
