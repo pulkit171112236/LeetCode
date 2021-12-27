@@ -523,7 +523,7 @@
 [1938.Maximum-Genetic-Difference-Query](https://github.com/pulkit171112236/LeetCode/tree/master/Trie/1938.Maximum-Genetic-Difference-Query) (H)  
 
 #### [Linked List](https://github.com/pulkit171112236/LeetCode/tree/master/Linked_List)
-[160.Intersection-of-Two-Linked-Lists](https://github.com/pulkit171112236/LeetCode/blob/pulkit/Linked_List/160.Intersection-of-Two-Linked-Lists.cpp) (E) 
+[160.Intersection-of-Two-Linked-Lists](https://github.com/pulkit171112236/LeetCode/blob/pulkit/Linked_List/160.Intersection-of-Two-Linked-Lists.cpp) (E)  
 [061.Rotate-List](https://github.com/pulkit171112236/LeetCode/tree/master/Linked_List/061.Rotate-List) (M)  
 082.Remove-Duplicates-from-Sorted-List-II (M+)  
 [086.Partition-List](https://github.com/pulkit171112236/LeetCode/tree/master/Linked_List/086.Partition-List) (M)   
